@@ -1,0 +1,154 @@
+{
+    "eventData": [
+        {
+            "id": 1,
+            "title": "The Eras Tour",
+            "artist": "Taylor Swift",
+            "venue": "Madison Square Garden, NY",
+            "date": "Dec 15, 2025",
+            "image": "https://i.pinimg.com/1200x/25/70/dc/2570dcddaf6532cc0e56f2eaaae0271b.jpg",
+            "badge": "SOLD OUT",
+            "price": "$89",
+            "category": "Pop"
+        },
+        {
+            "id": 2,
+            "title": "Music of the Spheres",
+            "artist": "Coldplay",
+            "venue": "Staples Center, LA",
+            "date": "Jan 20, 2026",
+            "image": "https://i.pinimg.com/1200x/06/27/bb/0627bb7e4f9d06c2845691e0ceaa10c6.jpg",
+            "badge": "VIP",
+            "price": "$75",
+            "category": "Alternative"
+        },
+        {
+            "id": 3,
+            "title": "Hit Me Hard Tour",
+            "artist": "Billie Eilish",
+            "venue": "United Center, Chicago",
+            "date": "Feb 8, 2026",
+            "image": "https://i.pinimg.com/1200x/6d/94/d3/6d94d3548bcbfb05c47cca6943137af2.jpg",
+            "badge": "TRENDING",
+            "price": "$65",
+            "category": "Pop"
+        },
+        {
+            "id": 4,
+            "title": "World Tour 2025",
+            "artist": "Ed Sheeran",
+            "venue": "Wembley Stadium, London",
+            "date": "Mar 12, 2026",
+            "image": "https://i.pinimg.com/736x/01/cd/77/01cd7719ea80487fcf7fcdd44d361566.jpg",
+            "badge": "NEW",
+            "price": "$95",
+            "category": "Folk"
+        },
+        {
+            "id": 5,
+            "title": "Future Nostalgia Tour",
+            "artist": "Bad Omens",
+            "venue": "O2 Arena, London",
+            "date": "Apr 5, 2026",
+            "image": "https://i.pinimg.com/736x/f1/f5/73/f1f573f74c047e6ed048609f63776ca5.jpg",
+            "badge": "HOT",
+            "price": "$85",
+            "category": "Metal"
+        },
+        {
+            "id": 6,
+            "title": "Justice World Tour",
+            "artist": "Justin Bieber",
+            "venue": "Tokyo Dome, Japan",
+            "date": "May 20, 2026",
+            "image": "https://i.pinimg.com/736x/8a/2d/ca/8a2dca776cc8211d446558a00b0dca5f.jpg",
+            "badge": "LIMITED",
+            "price": "$90",
+            "category": "Pop"
+        }
+    ],
+    "artistData": [
+        {
+            "id": 1,
+            "name": "Taylor Swift",
+            "genre": "Pop",
+            "origin": "Nashville, TN",
+            "image": "https://i.pinimg.com/1200x/25/70/dc/2570dcddaf6532cc0e56f2eaaae0271b.jpg",
+            "badge": "Multi-Grammy Winner",
+            "popularity": "98M followers",
+            "bio": "American singer-songwriter known for narrative songs about her personal life."
+        },
+        {
+            "id": 2,
+            "name": "Coldplay",
+            "genre": "Alternative Rock",
+            "origin": "London, UK",
+            "image": "https://i.pinimg.com/1200x/06/27/bb/0627bb7e4f9d06c2845691e0ceaa10c6.jpg",
+            "badge": "Global Superstars",
+            "popularity": "75M followers",
+            "bio": "British rock band formed in London, known for their melodic sound and spectacular live shows."
+        },
+        {
+            "id": 3,
+            "name": "Billie Eilish",
+            "genre": "Pop",
+            "origin": "Los Angeles, CA",
+            "image": "https://i.pinimg.com/1200x/6d/94/d3/6d94d3548bcbfb05c47cca6943137af2.jpg",
+            "badge": "Record Breaker",
+            "popularity": "82M followers",
+            "bio": "American singer-songwriter known for her dark, edgy pop music and unique fashion sense."
+        },
+        {
+            "id": 4,
+            "name": "Ed Sheeran",
+            "genre": "Folk Pop",
+            "origin": "Halifax, UK",
+            "image": "https://i.pinimg.com/736x/01/cd/77/01cd7719ea80487fcf7fcdd44d361566.jpg",
+            "badge": "Hit Maker",
+            "popularity": "90M followers",
+            "bio": "English singer-songwriter known for his acoustic guitar-driven songs and loop pedal performances."
+        }
+    ],
+    "venueData": [
+        {
+            "id": 1,
+            "name": "Madison Square Garden",
+            "location": "New York, NY",
+            "address": "4 Pennsylvania Plaza, New York, NY 10001",
+            "image": "https://placehold.co/400x220/1e1b4b/8b5cf6?text=MSG",
+            "badge": "Iconic",
+            "capacity": "20,789 capacity",
+            "description": "One of the most famous arenas in the world, home to countless legendary performances."
+        },
+        {
+            "id": 2,
+            "name": "Staples Center",
+            "location": "Los Angeles, CA",
+            "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+            "image": "https://placehold.co/400x220/1e1b4b/0ea5e9?text=Staples",
+            "badge": "Premier",
+            "capacity": "21,000 capacity",
+            "description": "Multi-purpose arena in downtown LA, hosting major concerts and sporting events."
+        },
+        {
+            "id": 3,
+            "name": "Wembley Stadium",
+            "location": "London, UK",
+            "address": "Wembley, London HA9 0WS, United Kingdom",
+            "image": "https://placehold.co/400x220/1e1b4b/f59e0b?text=Wembley",
+            "badge": "Historic",
+            "capacity": "90,000 capacity",
+            "description": "The largest stadium in the UK, hosting major football matches and concerts."
+        },
+        {
+            "id": 4,
+            "name": "Tokyo Dome",
+            "location": "Tokyo, Japan",
+            "address": "1-3-61 Koraku, Bunkyo City, Tokyo 112-0004",
+            "image": "https://placehold.co/400x220/1e1b4b/ec4899?text=Tokyo+Dome",
+            "badge": "Legendary",
+            "capacity": "55,000 capacity",
+            "description": "Japan's most famous dome, hosting baseball games and major international concerts."
+        }
+    ]
+}
